@@ -564,7 +564,8 @@ header{
     }
     .product-container 
     {
-        width: 90%;
+        width: 80%;
+        gap:100px;
     }
     .product-title-img
     {
@@ -586,6 +587,18 @@ header{
     .footer-container
     {
         width: 90%;
+    }
+    .specs-container
+    {
+        margin-top: 20%;
+    }
+    .products, .footer-container
+    {
+        margin-top: 20%;
+    }
+    .newsletter button
+    {
+        padding: 12px 10px;
     }
 }
 
